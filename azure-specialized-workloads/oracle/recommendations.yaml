@@ -15,7 +15,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Business continuity and disaster recovery considerations for Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
 
 - description: Implement a regional replication strategy for Oracle to meet your workload requirements
   aprlGuid: dfeb9c7a-7dae-4751-9625-b23a7160a3e1
@@ -32,7 +32,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Business continuity and disaster recovery considerations for Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
 
 
 - description: Implement Autonomous Recovery Service in Azure for ODAA backup strategy
@@ -51,7 +51,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Business continuity and disaster recovery considerations for Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
 
 
 - description: Monitor critical Oracle Database metrics with defined thresholds and scale accordingly
@@ -71,7 +71,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Learn about Manage and monitor Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-manage-monitor-oracle-database-azure"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-manage-monitor-oracle-database-azure"
 
 
 - description: Plan and implement IP addressing strategy to meet current and future requirements
@@ -90,7 +90,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Capacity planning for Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-capacity-planning-oracle-database-azure"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-capacity-planning-oracle-database-azure"
 
 
 - description: Deploy Data Guard observer in different Availability zones for high availability
@@ -108,7 +108,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Business continuity and disaster recovery considerations for Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-disaster-recovery-oracle-database-azure"
 
 - description: Set up Oracle Key Vault in a highly available cluster for customer-managed encryption keys.
   aprlGuid: bbe4014f-c49d-475d-9c48-76cb3c190483
@@ -125,7 +125,7 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Security guidelines for Oracle Database@Azure
-      url: "https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-security-overview-odaa"
+      url: "https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/oracle-iaas/oracle-security-overview-odaa"
 
 - description: Ensure Oracle Database@Azure Infrastructure is updated in a rolling manner.
   aprlGuid: 02bfe908-d958-451a-a603-bef8277ae56a
@@ -143,4 +143,4 @@
   tags: [ORACLE]
   learnMoreLink:
     - name: Configure Oracle-Managed Infrastructure Maintenance
-      url: "https://docs.oracle.com/en-us/iaas/exadatacloud/doc/exa-conf-oracle-man-infra.html"
+      url: "https://docs.oracle.com/iaas/exadatacloud/doc/exa-conf-oracle-man-infra.html"
